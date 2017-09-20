@@ -12,14 +12,15 @@
     <script>
       document.addEventListener('DOMContentLoaded', function(){
         document.getElementById("myCheckbox").addEventListener('click', function () {
+          var facetElement = document.querySelector('.CoveoFacet[data-title="FileType"]');
+          var facetInstance = Coveo.get(facetElement);
+          if (document.querySelector('#myCheckbox').checked) {
+              facetInstance.selectValue('youtubevideo');
+          } else {
+            facetInstance.deselectValue('youtubevideo');
+          }
           var rootElement = Coveo.$$(document).find('#search');
           Coveo.executeQuery(rootElement);
-        });
-
-        Coveo.$$(document.body).on('buildingQuery', function(e, args) {
-          if (document.querySelector('#myCheckbox').checked) {
-            args.queryBuilder.advancedExpression.addFieldExpression('@filetype', '==', ['youtubevideo']);
-          }
         });
 
         Coveo.SearchEndpoint.configureSampleEndpoint();
