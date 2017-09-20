@@ -1,0 +1,528 @@
+.coveo-filetype-user  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/user.svg); };
+.coveo-filetype-mail  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/mail.svg); };
+.coveo-filetype-list  { display: inline-block; width: 52px; height: 52px; background-size: 52px 52px; background-image: url(../../image/svg/filetypes/list.svg); };
+.coveo-filetype-file  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/file.svg); };
+.coveo-filetype-salesforce-standard-account  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-account.svg); };
+.coveo-filetype-calendar  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/calendar.svg); };
+.coveo-filetype-case  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/case.svg); };
+.coveo-filetype-document  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/document.svg); };
+.coveo-filetype-salesforce-standard-contact  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-contact.svg); };
+.coveo-filetype-salesforce-standard-contract  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-contract.svg); };
+.coveo-filetype-salesforce-standard-event  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-event.svg); };
+.coveo-filetype-salesforce-standard-goals  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-goals.svg); };
+.coveo-filetype-salesforce-standard-lead  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-lead.svg); };
+.coveo-filetype-salesforce-standard-article  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-article.svg); };
+.coveo-filetype-salesforce-standard-task  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-task.svg); };
+.coveo-filetype-attachment  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/attachment.svg); };
+.coveo-filetype-salesforce-standard-feedback  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-feedback.svg); };
+.coveo-filetype-salesforce-standard-opportunity  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-opportunity.svg); };
+.coveo-filetype-salesforce-standard-post  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-post.svg); };
+.coveo-filetype-salesforce-standard-note  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-note.svg); };
+.coveo-filetype-salesforce-standard-product  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-product.svg); };
+.coveo-filetype-salesforce-standard-quotes  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-quotes.svg); };
+.coveo-filetype-kb  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/kb.svg); };
+.coveo-filetype-salesforce-standard-orders  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-orders.svg); };
+.coveo-filetype-user-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/user.svg); };
+.coveo-filetype-mail-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/mail.svg); };
+.coveo-filetype-list-small  { display: inline-block; width: 26px; height: 26px; background-size: 26px 26px; background-image: url(../../image/svg/filetypes/list.svg); };
+.coveo-filetype-file-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/file.svg); };
+.coveo-filetype-salesforce-standard-account-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-account.svg); };
+.coveo-filetype-calendar-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/calendar.svg); };
+.coveo-filetype-case-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/case.svg); };
+.coveo-filetype-document-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/document.svg); };
+.coveo-filetype-salesforce-standard-contact-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-contact.svg); };
+.coveo-filetype-salesforce-standard-contract-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-contract.svg); };
+.coveo-filetype-salesforce-standard-event-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-event.svg); };
+.coveo-filetype-salesforce-standard-goals-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-goals.svg); };
+.coveo-filetype-salesforce-standard-lead-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-lead.svg); };
+.coveo-filetype-salesforce-standard-article-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-article.svg); };
+.coveo-filetype-salesforce-standard-task-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-task.svg); };
+.coveo-filetype-attachment-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/attachment.svg); };
+.coveo-filetype-salesforce-standard-feedback-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-feedback.svg); };
+.coveo-filetype-salesforce-standard-opportunity-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-opportunity.svg); };
+.coveo-filetype-salesforce-standard-post-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-post.svg); };
+.coveo-filetype-salesforce-standard-note-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-note.svg); };
+.coveo-filetype-salesforce-standard-product-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-product.svg); };
+.coveo-filetype-salesforce-standard-quotes-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-quotes.svg); };
+.coveo-filetype-kb-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/kb.svg); };
+.coveo-filetype-salesforce-standard-orders-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-orders.svg); };
+.coveo-filetype-link  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/link.svg); };
+.coveo-filetype-images  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/images.svg); };
+.coveo-filetype-folder  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/folder.svg); };
+.coveo-filetype-salesforce-doctype-flash  { display: inline-block; width: 56px; height: 64px; background-size: 56px 64px; background-image: url(../../image/svg/filetypes/salesforce-doctype-flash.svg); };
+.coveo-filetype-salesforce-doctype-visio  { display: inline-block; width: 56px; height: 64px; background-size: 56px 64px; background-image: url(../../image/svg/filetypes/salesforce-doctype-visio.svg); };
+.coveo-filetype-salesforce-doctype-word  { display: inline-block; width: 56px; height: 64px; background-size: 56px 64px; background-image: url(../../image/svg/filetypes/salesforce-doctype-word.svg); };
+.coveo-filetype-video  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/video.svg); };
+.coveo-filetype-salesforce-standard-default  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-default.svg); };
+.coveo-filetype-custom  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/custom.svg); };
+.coveo-filetype-webpage  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/webpage.svg); };
+.coveo-filetype-salesforce-standard-question-feed  { display: inline-block; width: 60px; height: 60px; background-size: 60px 60px; background-image: url(../../image/svg/filetypes/salesforce-standard-question-feed.svg); };
+.coveo-filetype-link-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/link.svg); };
+.coveo-filetype-images-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/images.svg); };
+.coveo-filetype-folder-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/folder.svg); };
+.coveo-filetype-salesforce-doctype-flash-small  { display: inline-block; width: 28px; height: 32px; background-size: 28px 32px; background-image: url(../../image/svg/filetypes/salesforce-doctype-flash.svg); };
+.coveo-filetype-salesforce-doctype-visio-small  { display: inline-block; width: 28px; height: 32px; background-size: 28px 32px; background-image: url(../../image/svg/filetypes/salesforce-doctype-visio.svg); };
+.coveo-filetype-salesforce-doctype-word-small  { display: inline-block; width: 28px; height: 32px; background-size: 28px 32px; background-image: url(../../image/svg/filetypes/salesforce-doctype-word.svg); };
+.coveo-filetype-video-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/video.svg); };
+.coveo-filetype-salesforce-standard-default-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-default.svg); };
+.coveo-filetype-custom-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/custom.svg); };
+.coveo-filetype-webpage-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/webpage.svg); };
+.coveo-filetype-salesforce-standard-question-feed-small  { display: inline-block; width: 30px; height: 30px; background-size: 30px 30px; background-image: url(../../image/svg/filetypes/salesforce-standard-question-feed.svg); };
+@mixin GeneratedIcons() {
+  .coveo-icon-caption-overlay { display: none; }  &.objecttype {
+    @extend .coveo-filetype-custom;
+    display: inline-block;
+    &.People ,     &.people{ @extend .coveo-filetype-user; }
+    &.Message ,     &.message{ @extend .coveo-filetype-mail; }
+    &.Feed ,     &.feed{ @extend .coveo-filetype-list; }
+    &.Thread ,     &.thread{ @extend .coveo-filetype-list; }
+    &.File ,     &.file{ @extend .coveo-filetype-file; }
+    &.Board ,     &.board{ @extend .coveo-filetype-list; }
+    &.Category ,     &.category{ @extend .coveo-filetype-list; }
+    &.Account ,     &.account{ @extend .coveo-filetype-salesforce-standard-account; }
+    &.Annotation ,     &.annotation{ @extend .coveo-filetype-file; }
+    &.Campaign ,     &.campaign{ @extend .coveo-filetype-calendar; }
+    &.Case ,     &.case{ @extend .coveo-filetype-case; }
+    &.Contentversion ,     &.contentversion{ @extend .coveo-filetype-document; }
+    &.Contact ,     &.contact{ @extend .coveo-filetype-salesforce-standard-contact; }
+    &.Contract ,     &.contract{ @extend .coveo-filetype-salesforce-standard-contract; }
+    &.Event ,     &.event{ @extend .coveo-filetype-salesforce-standard-event; }
+    &.Email ,     &.email{ @extend .coveo-filetype-mail; }
+    &.Goal ,     &.goal{ @extend .coveo-filetype-salesforce-standard-goals; }
+    &.Incident ,     &.incident{ @extend .coveo-filetype-case; }
+    &.Invoice ,     &.invoice{ @extend .coveo-filetype-list; }
+    &.Lead ,     &.lead{ @extend .coveo-filetype-salesforce-standard-lead; }
+    &.List ,     &.list{ @extend .coveo-filetype-list; }
+    &.Solution ,     &.solution{ @extend .coveo-filetype-salesforce-standard-article; .coveo-icon-caption-overlay { display: block; } }
+    &.Task ,     &.task{ @extend .coveo-filetype-salesforce-standard-task; .coveo-icon-caption-overlay { display: block; } }
+    &.User ,     &.user{ @extend .coveo-filetype-user; }
+    &.Attachment ,     &.attachment{ @extend .coveo-filetype-attachment; }
+    &.Casecomment ,     &.casecomment{ @extend .coveo-filetype-salesforce-standard-feedback; }
+    &.Opportunity ,     &.opportunity{ @extend .coveo-filetype-salesforce-standard-opportunity; }
+    &.Opportunityproduct ,     &.opportunityproduct{ @extend .coveo-filetype-salesforce-standard-opportunity; }
+    &.Feeditem ,     &.feeditem{ @extend .coveo-filetype-salesforce-standard-post; }
+    &.Feedcomment ,     &.feedcomment{ @extend .coveo-filetype-salesforce-standard-post; }
+    &.Note ,     &.note{ @extend .coveo-filetype-salesforce-standard-note; }
+    &.Product ,     &.product{ @extend .coveo-filetype-salesforce-standard-product; }
+    &.Partner ,     &.partner{ @extend .coveo-filetype-user; }
+    &.Queueitem ,     &.queueitem{ @extend .coveo-filetype-list; }
+    &.Quote ,     &.quote{ @extend .coveo-filetype-salesforce-standard-quotes; }
+    &.Salesliterature ,     &.salesliterature{ @extend .coveo-filetype-kb; .coveo-icon-caption-overlay { display: block; } }
+    &.Salesorder ,     &.salesorder{ @extend .coveo-filetype-salesforce-standard-orders; .coveo-icon-caption-overlay { display: block; } }
+    &.Service ,     &.service{ @extend .coveo-filetype-list; .coveo-icon-caption-overlay { display: block; } }
+    &.Socialprofile ,     &.socialprofile{ @extend .coveo-filetype-user; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbdocumentation ,     &.kbdocumentation{ @extend .coveo-filetype-salesforce-standard-article; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbtechnicalarticle ,     &.kbtechnicalarticle{ @extend .coveo-filetype-salesforce-standard-article; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbsolution ,     &.kbsolution{ @extend .coveo-filetype-salesforce-standard-article; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbknowledgearticle ,     &.kbknowledgearticle{ @extend .coveo-filetype-salesforce-standard-article; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbattachment ,     &.kbattachment{ @extend .coveo-filetype-salesforce-standard-article; }
+    &.Kbarticle ,     &.kbarticle{ @extend .coveo-filetype-salesforce-standard-article; }
+    &.Kbarticlecomment ,     &.kbarticlecomment{ @extend .coveo-filetype-list; }
+    &.Knowledgearticle ,     &.knowledgearticle{ @extend .coveo-filetype-salesforce-standard-article; }
+  }
+  &.objecttype.coveo-small {
+    @extend .coveo-filetype-custom-small;
+    display: inline-block;
+    &.People ,     &.people{ @extend .coveo-filetype-user-small; }
+    &.Message ,     &.message{ @extend .coveo-filetype-mail-small; }
+    &.Feed ,     &.feed{ @extend .coveo-filetype-list-small; }
+    &.Thread ,     &.thread{ @extend .coveo-filetype-list-small; }
+    &.File ,     &.file{ @extend .coveo-filetype-file-small; }
+    &.Board ,     &.board{ @extend .coveo-filetype-list-small; }
+    &.Category ,     &.category{ @extend .coveo-filetype-list-small; }
+    &.Account ,     &.account{ @extend .coveo-filetype-salesforce-standard-account-small; }
+    &.Annotation ,     &.annotation{ @extend .coveo-filetype-file-small; }
+    &.Campaign ,     &.campaign{ @extend .coveo-filetype-calendar-small; }
+    &.Case ,     &.case{ @extend .coveo-filetype-case-small; }
+    &.Contentversion ,     &.contentversion{ @extend .coveo-filetype-document-small; }
+    &.Contact ,     &.contact{ @extend .coveo-filetype-salesforce-standard-contact-small; }
+    &.Contract ,     &.contract{ @extend .coveo-filetype-salesforce-standard-contract-small; }
+    &.Event ,     &.event{ @extend .coveo-filetype-salesforce-standard-event-small; }
+    &.Email ,     &.email{ @extend .coveo-filetype-mail-small; }
+    &.Goal ,     &.goal{ @extend .coveo-filetype-salesforce-standard-goals-small; }
+    &.Incident ,     &.incident{ @extend .coveo-filetype-case-small; }
+    &.Invoice ,     &.invoice{ @extend .coveo-filetype-list-small; }
+    &.Lead ,     &.lead{ @extend .coveo-filetype-salesforce-standard-lead-small; }
+    &.List ,     &.list{ @extend .coveo-filetype-list-small; }
+    &.Solution ,     &.solution{ @extend .coveo-filetype-salesforce-standard-article-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Task ,     &.task{ @extend .coveo-filetype-salesforce-standard-task-small; .coveo-icon-caption-overlay { display: block; } }
+    &.User ,     &.user{ @extend .coveo-filetype-user-small; }
+    &.Attachment ,     &.attachment{ @extend .coveo-filetype-attachment-small; }
+    &.Casecomment ,     &.casecomment{ @extend .coveo-filetype-salesforce-standard-feedback-small; }
+    &.Opportunity ,     &.opportunity{ @extend .coveo-filetype-salesforce-standard-opportunity-small; }
+    &.Opportunityproduct ,     &.opportunityproduct{ @extend .coveo-filetype-salesforce-standard-opportunity-small; }
+    &.Feeditem ,     &.feeditem{ @extend .coveo-filetype-salesforce-standard-post-small; }
+    &.Feedcomment ,     &.feedcomment{ @extend .coveo-filetype-salesforce-standard-post-small; }
+    &.Note ,     &.note{ @extend .coveo-filetype-salesforce-standard-note-small; }
+    &.Product ,     &.product{ @extend .coveo-filetype-salesforce-standard-product-small; }
+    &.Partner ,     &.partner{ @extend .coveo-filetype-user-small; }
+    &.Queueitem ,     &.queueitem{ @extend .coveo-filetype-list-small; }
+    &.Quote ,     &.quote{ @extend .coveo-filetype-salesforce-standard-quotes-small; }
+    &.Salesliterature ,     &.salesliterature{ @extend .coveo-filetype-kb-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Salesorder ,     &.salesorder{ @extend .coveo-filetype-salesforce-standard-orders-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Service ,     &.service{ @extend .coveo-filetype-list-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Socialprofile ,     &.socialprofile{ @extend .coveo-filetype-user-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbdocumentation ,     &.kbdocumentation{ @extend .coveo-filetype-salesforce-standard-article-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbtechnicalarticle ,     &.kbtechnicalarticle{ @extend .coveo-filetype-salesforce-standard-article-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbsolution ,     &.kbsolution{ @extend .coveo-filetype-salesforce-standard-article-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbknowledgearticle ,     &.kbknowledgearticle{ @extend .coveo-filetype-salesforce-standard-article-small; .coveo-icon-caption-overlay { display: block; } }
+    &.Kbattachment ,     &.kbattachment{ @extend .coveo-filetype-salesforce-standard-article-small; }
+    &.Kbarticle ,     &.kbarticle{ @extend .coveo-filetype-salesforce-standard-article-small; }
+    &.Kbarticlecomment ,     &.kbarticlecomment{ @extend .coveo-filetype-list-small; }
+    &.Knowledgearticle ,     &.knowledgearticle{ @extend .coveo-filetype-salesforce-standard-article-small; }
+  }
+  &.filetype, &.sysfiletype {
+    @extend .coveo-filetype-custom;
+    display: inline-block;
+ &.box-user{ @extend .coveo-filetype-user;}
+ &.html{ @extend .coveo-filetype-link;}
+ &.wiki{ @extend .coveo-filetype-link;}
+ &.webscraperwebpage{ @extend .coveo-filetype-link;}
+ &.image{ @extend .coveo-filetype-images;}
+ &.folder{ @extend .coveo-filetype-folder;}
+ &.txt{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.zip{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.olefile{ @extend .coveo-filetype-file;}
+ &.gmailmessage{ @extend .coveo-filetype-mail;}
+ &.pdf{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.swf{ @extend .coveo-filetype-salesforce-doctype-flash;}
+ &.xml{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.vsd{ @extend .coveo-filetype-salesforce-doctype-visio;}
+ &.svg{ @extend .coveo-filetype-images;}
+ &.svm{ @extend .coveo-filetype-salesforce-doctype-word;}
+ &.rssitem{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.doc{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.docx{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.xls{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.ppt{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.video{ @extend .coveo-filetype-video;}
+ &.youtube{ @extend .coveo-filetype-video;}
+ &.saleforceitem{ @extend .coveo-filetype-list;}
+ &.dynamicscrmitem{ @extend .coveo-filetype-link;}
+ &.salesforceitem{ @extend .coveo-filetype-salesforce-standard-default;}
+ &.odt{ @extend .coveo-filetype-file; .coveo-icon-caption-overlay { display: block; }}
+ &.box{ @extend .coveo-filetype-user;}
+ &.jiraissue{ @extend .coveo-filetype-custom;}
+ &.cfpage{ @extend .coveo-filetype-webpage; .coveo-icon-caption-overlay { display: block; }}
+ &.cfcomment{ @extend .coveo-filetype-salesforce-standard-question-feed; .coveo-icon-caption-overlay { display: block; }}
+ &.cfspace{ @extend .coveo-filetype-folder; .coveo-icon-caption-overlay { display: block; }}
+ &.cfblogentry{ @extend .coveo-filetype-list; .coveo-icon-caption-overlay { display: block; }}
+ &.confluencespace{ @extend .coveo-filetype-folder; .coveo-icon-caption-overlay { display: block; }}
+ &.exchangemessage{ @extend .coveo-filetype-mail;}
+ &.exchangeappointment{ @extend .coveo-filetype-calendar;}
+ &.exchangenote{ @extend .coveo-filetype-list;}
+ &.exchangetask{ @extend .coveo-filetype-case;}
+ &.exchangeperson{ @extend .coveo-filetype-user;}
+ &.activedirperson{ @extend .coveo-filetype-user;}
+ &.exchangeactivity{ @extend .coveo-filetype-list;}
+ &.exchangecalendarmessage{ @extend .coveo-filetype-calendar;}
+ &.exchangedocument{ @extend .coveo-filetype-file;}
+ &.exchangedsn{ @extend .coveo-filetype-mail;}
+ &.exchangefreebusy{ @extend .coveo-filetype-custom;}
+ &.exchangegroup{ @extend .coveo-filetype-user;}
+ &.exchangemdn{ @extend .coveo-filetype-custom;}
+ &.exchangerecallmessage{ @extend .coveo-filetype-mail;}
+ &.exchangerecallreport{ @extend .coveo-filetype-mail;}
+ &.exchangeobject{ @extend .coveo-filetype-custom;}
+ &.exchangerssfeed{ @extend .coveo-filetype-list;}
+ &.exchangejunkmessage{ @extend .coveo-filetype-mail;}
+ &.exchangeofficecom{ @extend .coveo-filetype-list;}
+ &.lithiummessage{ @extend .coveo-filetype-mail;}
+ &.lithiumthread{ @extend .coveo-filetype-list;}
+ &.lithiumboard{ @extend .coveo-filetype-list;}
+ &.lithiumcategory{ @extend .coveo-filetype-list;}
+ &.lithiumcommunity{ @extend .coveo-filetype-custom;}
+ &.spportal{ @extend .coveo-filetype-webpage;}
+ &.spsite{ @extend .coveo-filetype-link;}
+ &.spuserprofile{ @extend .coveo-filetype-user;}
+ &.sparea{ @extend .coveo-filetype-custom;}
+ &.spannouncement{ @extend .coveo-filetype-list;}
+ &.spannouncementlist{ @extend .coveo-filetype-list;}
+ &.spcontact{ @extend .coveo-filetype-user;}
+ &.spcontactlist{ @extend .coveo-filetype-user;}
+ &.spcustomlist{ @extend .coveo-filetype-custom;}
+ &.spdiscussionboard{ @extend .coveo-filetype-list;}
+ &.spdiscussionboardlist{ @extend .coveo-filetype-list;}
+ &.spdocumentlibrarylist{ @extend .coveo-filetype-folder;}
+ &.spevent{ @extend .coveo-filetype-calendar;}
+ &.speventlist{ @extend .coveo-filetype-calendar;}
+ &.spformlibrarylist{ @extend .coveo-filetype-folder;}
+ &.spissue{ @extend .coveo-filetype-link;}
+ &.spissuelist{ @extend .coveo-filetype-link;}
+ &.splink{ @extend .coveo-filetype-link;}
+ &.splinklist{ @extend .coveo-filetype-link;}
+ &.sppicturelibrarylist{ @extend .coveo-filetype-images;}
+ &.spsurvey{ @extend .coveo-filetype-custom;}
+ &.spsurveylist{ @extend .coveo-filetype-custom;}
+ &.sptask{ @extend .coveo-filetype-calendar;}
+ &.sptasklist{ @extend .coveo-filetype-calendar;}
+ &.spagenda{ @extend .coveo-filetype-calendar;}
+ &.spagendalist{ @extend .coveo-filetype-calendar;}
+ &.spattendee{ @extend .coveo-filetype-user;}
+ &.spattendeelist{ @extend .coveo-filetype-user;}
+ &.spcustomgridlist{ @extend .coveo-filetype-custom;}
+ &.spdecision{ @extend .coveo-filetype-custom;}
+ &.spdecisionlist{ @extend .coveo-filetype-custom;}
+ &.spobjective{ @extend .coveo-filetype-custom;}
+ &.spobjectivelist{ @extend .coveo-filetype-custom;}
+ &.sptextbox{ @extend .coveo-filetype-list;}
+ &.sptextboxlist{ @extend .coveo-filetype-list;}
+ &.spthingstobring{ @extend .coveo-filetype-custom;}
+ &.spthingstobringlist{ @extend .coveo-filetype-custom;}
+ &.sparealisting{ @extend .coveo-filetype-custom;}
+ &.spmeetingserie{ @extend .coveo-filetype-calendar;}
+ &.spmeetingserielist{ @extend .coveo-filetype-calendar;}
+ &.spsitedirectory{ @extend .coveo-filetype-folder;}
+ &.spsitedirectorylist{ @extend .coveo-filetype-folder;}
+ &.spdatasource{ @extend .coveo-filetype-kb;}
+ &.spdatasourcelist{ @extend .coveo-filetype-kb;}
+ &.splisttemplatecataloglist{ @extend .coveo-filetype-folder;}
+ &.spwebpartcataloglist{ @extend .coveo-filetype-folder;}
+ &.spwebtemplatecataloglist{ @extend .coveo-filetype-folder;}
+ &.spworkspacepagelist{ @extend .coveo-filetype-folder;}
+ &.spunknownlist{ @extend .coveo-filetype-custom;}
+ &.spadministratortask{ @extend .coveo-filetype-calendar;}
+ &.spadministratortasklist{ @extend .coveo-filetype-calendar;}
+ &.spareadocumentlibrarylist{ @extend .coveo-filetype-folder;}
+ &.spblogcategory{ @extend .coveo-filetype-list;}
+ &.spblogcategorylist{ @extend .coveo-filetype-list;}
+ &.spblogcomment{ @extend .coveo-filetype-list;}
+ &.spblogcommentlist{ @extend .coveo-filetype-list;}
+ &.spblogpost{ @extend .coveo-filetype-list;}
+ &.spblogpostlist{ @extend .coveo-filetype-list;}
+ &.spdataconnectionlibrarylist{ @extend .coveo-filetype-kb;}
+ &.spdistributiongroup{ @extend .coveo-filetype-custom;}
+ &.spdistributiongrouplist{ @extend .coveo-filetype-custom;}
+ &.spipfslist{ @extend .coveo-filetype-kb;}
+ &.spkeyperformanceindicator{ @extend .coveo-filetype-custom;}
+ &.spkeyperformanceindicatorlist{ @extend .coveo-filetype-custom;}
+ &.splanguagesandtranslator{ @extend .coveo-filetype-list;}
+ &.splanguagesandtranslatorlist{ @extend .coveo-filetype-list;}
+ &.spmasterpagescataloglist{ @extend .coveo-filetype-folder;}
+ &.spnocodeworkflowlibrarylist{ @extend .coveo-filetype-folder;}
+ &.spprojecttask{ @extend .coveo-filetype-case;}
+ &.spprojecttasklist{ @extend .coveo-filetype-case;}
+ &.sppublishingpageslibrarylist{ @extend .coveo-filetype-folder;}
+ &.spreportdocumentlibrarylist{ @extend .coveo-filetype-folder;}
+ &.spreportlibrarylist{ @extend .coveo-filetype-folder;}
+ &.spslidelibrarylist{ @extend .coveo-filetype-folder;}
+ &.sptab{ @extend .coveo-filetype-custom;}
+ &.sptablist{ @extend .coveo-filetype-custom;}
+ &.sptranslationmanagementlibrarylist{ @extend .coveo-filetype-folder;}
+ &.spuserinformation{ @extend .coveo-filetype-user;}
+ &.spuserinformationlist{ @extend .coveo-filetype-user;}
+ &.spwikipagelibrarylist{ @extend .coveo-filetype-folder;}
+ &.spworkflowhistory{ @extend .coveo-filetype-calendar;}
+ &.spworkflowhistorylist{ @extend .coveo-filetype-calendar;}
+ &.spworkflowprocess{ @extend .coveo-filetype-custom;}
+ &.spworkflowprocesslist{ @extend .coveo-filetype-custom;}
+ &.sppublishingimageslibrarylist{ @extend .coveo-filetype-folder;}
+ &.spcirculation{ @extend .coveo-filetype-custom;}
+ &.spcirculationlist{ @extend .coveo-filetype-custom;}
+ &.spdashboardslibrarylist{ @extend .coveo-filetype-folder;}
+ &.spdataconnectionforperformancepointlibrarylist{ @extend .coveo-filetype-folder;}
+ &.sphealthreport{ @extend .coveo-filetype-list;}
+ &.sphealthreportlist{ @extend .coveo-filetype-list;}
+ &.sphealthrule{ @extend .coveo-filetype-list;}
+ &.sphealthrulelist{ @extend .coveo-filetype-list;}
+ &.spimedictionary{ @extend .coveo-filetype-folder;}
+ &.spimedictionarylist{ @extend .coveo-filetype-folder;}
+ &.spperformancepointcontent{ @extend .coveo-filetype-list;}
+ &.spperformancepointcontentlist{ @extend .coveo-filetype-list;}
+ &.spphonecallmemo{ @extend .coveo-filetype-list;}
+ &.spphonecallmemolist{ @extend .coveo-filetype-list;}
+ &.sprecordlibrarylist{ @extend .coveo-filetype-folder;}
+ &.spresource{ @extend .coveo-filetype-file;}
+ &.spresourcelist{ @extend .coveo-filetype-file;}
+ &.spprocessdiagramslibrarylist{ @extend .coveo-filetype-folder;}
+ &.spsitethemeslibrarylist{ @extend .coveo-filetype-folder;}
+ &.spsolutionslibrarylist{ @extend .coveo-filetype-folder;}
+ &.spwfpublibrarylist{ @extend .coveo-filetype-folder;}
+ &.spwhereabout{ @extend .coveo-filetype-custom;}
+ &.spwhereaboutlist{ @extend .coveo-filetype-custom;}
+ &.spdocumentlink{ @extend .coveo-filetype-link;}
+ &.spdocumentset{ @extend .coveo-filetype-folder;}
+ &.spmicrofeedpost{ @extend .coveo-filetype-list;}
+ &.spmicrofeedlist{ @extend .coveo-filetype-list;}
+ &.splistfolder{ @extend .coveo-filetype-folder;}
+ &.youtubevideo{ @extend .coveo-filetype-video;}
+ &.youtubeplaylistitem{ @extend .coveo-filetype-video;}
+  }
+  &.filetype.coveo-small, &.sysfiletype.coveo-small {
+    @extend .coveo-filetype-custom-small;
+    display: inline-block;
+ &.box-user{ @extend .coveo-filetype-user-small;}
+ &.html{ @extend .coveo-filetype-link-small;}
+ &.wiki{ @extend .coveo-filetype-link-small;}
+ &.webscraperwebpage{ @extend .coveo-filetype-link-small;}
+ &.image{ @extend .coveo-filetype-images-small;}
+ &.folder{ @extend .coveo-filetype-folder-small;}
+ &.txt{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.zip{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.olefile{ @extend .coveo-filetype-file-small;}
+ &.gmailmessage{ @extend .coveo-filetype-mail-small;}
+ &.pdf{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.swf{ @extend .coveo-filetype-salesforce-doctype-flash-small;}
+ &.xml{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.vsd{ @extend .coveo-filetype-salesforce-doctype-visio-small;}
+ &.svg{ @extend .coveo-filetype-images-small;}
+ &.svm{ @extend .coveo-filetype-salesforce-doctype-word-small;}
+ &.rssitem{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.doc{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.docx{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.xls{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.ppt{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.video{ @extend .coveo-filetype-video-small;}
+ &.youtube{ @extend .coveo-filetype-video-small;}
+ &.saleforceitem{ @extend .coveo-filetype-list-small;}
+ &.dynamicscrmitem{ @extend .coveo-filetype-link-small;}
+ &.salesforceitem{ @extend .coveo-filetype-salesforce-standard-default-small;}
+ &.odt{ @extend .coveo-filetype-file-small; .coveo-icon-caption-overlay { display: block; }}
+ &.box{ @extend .coveo-filetype-user-small;}
+ &.jiraissue{ @extend .coveo-filetype-custom-small;}
+ &.cfpage{ @extend .coveo-filetype-webpage-small; .coveo-icon-caption-overlay { display: block; }}
+ &.cfcomment{ @extend .coveo-filetype-salesforce-standard-question-feed-small; .coveo-icon-caption-overlay { display: block; }}
+ &.cfspace{ @extend .coveo-filetype-folder-small; .coveo-icon-caption-overlay { display: block; }}
+ &.cfblogentry{ @extend .coveo-filetype-list-small; .coveo-icon-caption-overlay { display: block; }}
+ &.confluencespace{ @extend .coveo-filetype-folder-small; .coveo-icon-caption-overlay { display: block; }}
+ &.exchangemessage{ @extend .coveo-filetype-mail-small;}
+ &.exchangeappointment{ @extend .coveo-filetype-calendar-small;}
+ &.exchangenote{ @extend .coveo-filetype-list-small;}
+ &.exchangetask{ @extend .coveo-filetype-case-small;}
+ &.exchangeperson{ @extend .coveo-filetype-user-small;}
+ &.activedirperson{ @extend .coveo-filetype-user-small;}
+ &.exchangeactivity{ @extend .coveo-filetype-list-small;}
+ &.exchangecalendarmessage{ @extend .coveo-filetype-calendar-small;}
+ &.exchangedocument{ @extend .coveo-filetype-file-small;}
+ &.exchangedsn{ @extend .coveo-filetype-mail-small;}
+ &.exchangefreebusy{ @extend .coveo-filetype-custom-small;}
+ &.exchangegroup{ @extend .coveo-filetype-user-small;}
+ &.exchangemdn{ @extend .coveo-filetype-custom-small;}
+ &.exchangerecallmessage{ @extend .coveo-filetype-mail-small;}
+ &.exchangerecallreport{ @extend .coveo-filetype-mail-small;}
+ &.exchangeobject{ @extend .coveo-filetype-custom-small;}
+ &.exchangerssfeed{ @extend .coveo-filetype-list-small;}
+ &.exchangejunkmessage{ @extend .coveo-filetype-mail-small;}
+ &.exchangeofficecom{ @extend .coveo-filetype-list-small;}
+ &.lithiummessage{ @extend .coveo-filetype-mail-small;}
+ &.lithiumthread{ @extend .coveo-filetype-list-small;}
+ &.lithiumboard{ @extend .coveo-filetype-list-small;}
+ &.lithiumcategory{ @extend .coveo-filetype-list-small;}
+ &.lithiumcommunity{ @extend .coveo-filetype-custom-small;}
+ &.spportal{ @extend .coveo-filetype-webpage-small;}
+ &.spsite{ @extend .coveo-filetype-link-small;}
+ &.spuserprofile{ @extend .coveo-filetype-user-small;}
+ &.sparea{ @extend .coveo-filetype-custom-small;}
+ &.spannouncement{ @extend .coveo-filetype-list-small;}
+ &.spannouncementlist{ @extend .coveo-filetype-list-small;}
+ &.spcontact{ @extend .coveo-filetype-user-small;}
+ &.spcontactlist{ @extend .coveo-filetype-user-small;}
+ &.spcustomlist{ @extend .coveo-filetype-custom-small;}
+ &.spdiscussionboard{ @extend .coveo-filetype-list-small;}
+ &.spdiscussionboardlist{ @extend .coveo-filetype-list-small;}
+ &.spdocumentlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spevent{ @extend .coveo-filetype-calendar-small;}
+ &.speventlist{ @extend .coveo-filetype-calendar-small;}
+ &.spformlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spissue{ @extend .coveo-filetype-link-small;}
+ &.spissuelist{ @extend .coveo-filetype-link-small;}
+ &.splink{ @extend .coveo-filetype-link-small;}
+ &.splinklist{ @extend .coveo-filetype-link-small;}
+ &.sppicturelibrarylist{ @extend .coveo-filetype-images-small;}
+ &.spsurvey{ @extend .coveo-filetype-custom-small;}
+ &.spsurveylist{ @extend .coveo-filetype-custom-small;}
+ &.sptask{ @extend .coveo-filetype-calendar-small;}
+ &.sptasklist{ @extend .coveo-filetype-calendar-small;}
+ &.spagenda{ @extend .coveo-filetype-calendar-small;}
+ &.spagendalist{ @extend .coveo-filetype-calendar-small;}
+ &.spattendee{ @extend .coveo-filetype-user-small;}
+ &.spattendeelist{ @extend .coveo-filetype-user-small;}
+ &.spcustomgridlist{ @extend .coveo-filetype-custom-small;}
+ &.spdecision{ @extend .coveo-filetype-custom-small;}
+ &.spdecisionlist{ @extend .coveo-filetype-custom-small;}
+ &.spobjective{ @extend .coveo-filetype-custom-small;}
+ &.spobjectivelist{ @extend .coveo-filetype-custom-small;}
+ &.sptextbox{ @extend .coveo-filetype-list-small;}
+ &.sptextboxlist{ @extend .coveo-filetype-list-small;}
+ &.spthingstobring{ @extend .coveo-filetype-custom-small;}
+ &.spthingstobringlist{ @extend .coveo-filetype-custom-small;}
+ &.sparealisting{ @extend .coveo-filetype-custom-small;}
+ &.spmeetingserie{ @extend .coveo-filetype-calendar-small;}
+ &.spmeetingserielist{ @extend .coveo-filetype-calendar-small;}
+ &.spsitedirectory{ @extend .coveo-filetype-folder-small;}
+ &.spsitedirectorylist{ @extend .coveo-filetype-folder-small;}
+ &.spdatasource{ @extend .coveo-filetype-kb-small;}
+ &.spdatasourcelist{ @extend .coveo-filetype-kb-small;}
+ &.splisttemplatecataloglist{ @extend .coveo-filetype-folder-small;}
+ &.spwebpartcataloglist{ @extend .coveo-filetype-folder-small;}
+ &.spwebtemplatecataloglist{ @extend .coveo-filetype-folder-small;}
+ &.spworkspacepagelist{ @extend .coveo-filetype-folder-small;}
+ &.spunknownlist{ @extend .coveo-filetype-custom-small;}
+ &.spadministratortask{ @extend .coveo-filetype-calendar-small;}
+ &.spadministratortasklist{ @extend .coveo-filetype-calendar-small;}
+ &.spareadocumentlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spblogcategory{ @extend .coveo-filetype-list-small;}
+ &.spblogcategorylist{ @extend .coveo-filetype-list-small;}
+ &.spblogcomment{ @extend .coveo-filetype-list-small;}
+ &.spblogcommentlist{ @extend .coveo-filetype-list-small;}
+ &.spblogpost{ @extend .coveo-filetype-list-small;}
+ &.spblogpostlist{ @extend .coveo-filetype-list-small;}
+ &.spdataconnectionlibrarylist{ @extend .coveo-filetype-kb-small;}
+ &.spdistributiongroup{ @extend .coveo-filetype-custom-small;}
+ &.spdistributiongrouplist{ @extend .coveo-filetype-custom-small;}
+ &.spipfslist{ @extend .coveo-filetype-kb-small;}
+ &.spkeyperformanceindicator{ @extend .coveo-filetype-custom-small;}
+ &.spkeyperformanceindicatorlist{ @extend .coveo-filetype-custom-small;}
+ &.splanguagesandtranslator{ @extend .coveo-filetype-list-small;}
+ &.splanguagesandtranslatorlist{ @extend .coveo-filetype-list-small;}
+ &.spmasterpagescataloglist{ @extend .coveo-filetype-folder-small;}
+ &.spnocodeworkflowlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spprojecttask{ @extend .coveo-filetype-case-small;}
+ &.spprojecttasklist{ @extend .coveo-filetype-case-small;}
+ &.sppublishingpageslibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spreportdocumentlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spreportlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spslidelibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.sptab{ @extend .coveo-filetype-custom-small;}
+ &.sptablist{ @extend .coveo-filetype-custom-small;}
+ &.sptranslationmanagementlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spuserinformation{ @extend .coveo-filetype-user-small;}
+ &.spuserinformationlist{ @extend .coveo-filetype-user-small;}
+ &.spwikipagelibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spworkflowhistory{ @extend .coveo-filetype-calendar-small;}
+ &.spworkflowhistorylist{ @extend .coveo-filetype-calendar-small;}
+ &.spworkflowprocess{ @extend .coveo-filetype-custom-small;}
+ &.spworkflowprocesslist{ @extend .coveo-filetype-custom-small;}
+ &.sppublishingimageslibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spcirculation{ @extend .coveo-filetype-custom-small;}
+ &.spcirculationlist{ @extend .coveo-filetype-custom-small;}
+ &.spdashboardslibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spdataconnectionforperformancepointlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.sphealthreport{ @extend .coveo-filetype-list-small;}
+ &.sphealthreportlist{ @extend .coveo-filetype-list-small;}
+ &.sphealthrule{ @extend .coveo-filetype-list-small;}
+ &.sphealthrulelist{ @extend .coveo-filetype-list-small;}
+ &.spimedictionary{ @extend .coveo-filetype-folder-small;}
+ &.spimedictionarylist{ @extend .coveo-filetype-folder-small;}
+ &.spperformancepointcontent{ @extend .coveo-filetype-list-small;}
+ &.spperformancepointcontentlist{ @extend .coveo-filetype-list-small;}
+ &.spphonecallmemo{ @extend .coveo-filetype-list-small;}
+ &.spphonecallmemolist{ @extend .coveo-filetype-list-small;}
+ &.sprecordlibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spresource{ @extend .coveo-filetype-file-small;}
+ &.spresourcelist{ @extend .coveo-filetype-file-small;}
+ &.spprocessdiagramslibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spsitethemeslibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spsolutionslibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spwfpublibrarylist{ @extend .coveo-filetype-folder-small;}
+ &.spwhereabout{ @extend .coveo-filetype-custom-small;}
+ &.spwhereaboutlist{ @extend .coveo-filetype-custom-small;}
+ &.spdocumentlink{ @extend .coveo-filetype-link-small;}
+ &.spdocumentset{ @extend .coveo-filetype-folder-small;}
+ &.spmicrofeedpost{ @extend .coveo-filetype-list-small;}
+ &.spmicrofeedlist{ @extend .coveo-filetype-list-small;}
+ &.splistfolder{ @extend .coveo-filetype-folder-small;}
+ &.youtubevideo{ @extend .coveo-filetype-video-small;}
+ &.youtubeplaylistitem{ @extend .coveo-filetype-video-small;}
+  }
+}

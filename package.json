@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbelzile-Coveo/demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbelzile-Coveo/demo/issues"
+  },
+  "homepage": "https://github.com/sbelzile-Coveo/demo#readme",
+  "devDependencies": {
+    "coveo-search-ui": "^2.2900.23"
+  }
+}
